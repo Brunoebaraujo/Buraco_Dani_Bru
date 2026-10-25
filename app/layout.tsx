@@ -4,9 +4,6 @@ import "./globals.css";
 export const metadata: Metadata = {
   title: "Buraco | Dani & Bru",
   description: "Nossa caderneta de buraco: pontos, rodadas e histórias de Dani e Bru.",
-  other: {
-    "codex-preview": "development",
-  },
   icons: {
     icon: "/favicon.svg",
     shortcut: "/favicon.svg",
